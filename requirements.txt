@@ -1,0 +1,5 @@
+snowflake-connector-python>=3.0.0
+pandas>=1.5.0
+python-dotenv>=1.0.0
+scikit-learn>=1.0.0
+kaggle>=1.5.13 
